@@ -1,22 +1,25 @@
-# Python UNMSM
+# Python UNMSM  
 
-## Descripción
-En este repositorio encontrarás una amplia variedad de recursos para aprender y practicar Python. El contenido está diseñado para ser accesible tanto para principiantes como para aquellos con conocimientos intermedios.
+## Descripción  
+Bienvenido a **Python UNMSM**, un repositorio dedicado al aprendizaje y la práctica de Python. Este espacio está diseñado para ser útil tanto para principiantes que están dando sus primeros pasos como para personas con conocimientos intermedios que desean fortalecer sus habilidades.  
 
-### Contenido:
-- **Problemas Resueltos de Python:** Ejercicios prácticos con sus respectivas soluciones, provenientes del curso CS50 de Harvard, para afianzar tus conocimientos.
-- **Guía de Python:** Un documento detallado de más de 45 páginas que cubre desde los conceptos básicos hasta temas más avanzados.
-- **Actualizaciones:** Este repositorio se actualizará periódicamente con nuevos ejercicios y mejoras en la guía.
+## Contenido  
+En este repositorio encontrarás:  
+- **Problemas Resueltos de Python:** Ejercicios prácticos con soluciones detalladas basados en el curso **CS50 de Harvard**, ideales para consolidar tus conocimientos.  
+- **Guía de Python:** Un completo documento de más de 45 páginas que abarca desde fundamentos básicos hasta temas avanzados de Python.  
+- **Actualizaciones Periódicas:** Este repositorio se mantendrá actualizado con nuevos ejercicios, mejoras y recursos adicionales para garantizar que siempre tengas acceso al mejor contenido.  
 
-## Estructura del Repositorio
-- **guia:** Contiene el documento PDF de la guía de Python.
-- **ejercicios-resueltos:** Carpeta con los problemas resueltos del curso CS50 de Harvard.
-- **Ejercicios-para-resolver:** Documento .ipynb con teoria y ejercicios en python.
+## Estructura del Repositorio  
+La estructura está organizada de la siguiente manera:  
+- **`guia/`**: Carpeta que contiene el archivo PDF de la guía de Python.  
+- **`ejercicios-resueltos/`**: Carpeta con los problemas resueltos del curso **CS50 de Harvard**.  
+- **`ejercicios-para-resolver/`**: Documento en formato `.ipynb` que incluye teoría y ejercicios prácticos para que puedas resolverlos por tu cuenta.  
 
-## Cómo Usar Este Repositorio
-1. **Clona el repositorio:** 
+## Cómo Usar Este Repositorio  
+1. **Clona el repositorio en tu máquina local:**  
    ```bash
-   git clone https://github.com/tu-usuario/python-fisi.git
+   git clone https://github.com/Kev-1729/Programacion_Kev.git
 
-
-### Link del curso de CS50 Harvard : [Python Harvard](https://cs50.harvard.edu/python/2022/)
+## Recursos Adicionales
+Si deseas profundizar más en Python, te recomendamos explorar el curso oficial de CS50:
+[CS50’s Introduction to Programming with Python](https://cs50.harvard.edu/python/2022/)
