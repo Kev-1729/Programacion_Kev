@@ -23,3 +23,7 @@ La estructura está organizada de la siguiente manera:
 ## Recursos Adicionales
 Si deseas profundizar más en Python, te recomendamos explorar el curso oficial de CS50:
 [CS50’s Introduction to Programming with Python](https://cs50.harvard.edu/python/2022/)
+
+## Certificado
+![image](https://github.com/user-attachments/assets/fea8fe6b-9369-4b42-b7d3-e36ee09ce54f)
+
