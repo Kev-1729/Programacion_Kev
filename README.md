@@ -1,4 +1,4 @@
-# Python UNMSM  
+# Programación con Python
 
 ## Descripción  
 Bienvenido a **Python UNMSM**, un repositorio dedicado al aprendizaje y la práctica de Python. Este espacio está diseñado para ser útil tanto para principiantes que están dando sus primeros pasos como para personas con conocimientos intermedios que desean fortalecer sus habilidades.  
