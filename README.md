@@ -1,7 +1,7 @@
-# Programación con Python
+# Programación con Kevin
 
 ## Descripción  
-Bienvenido a **Python UNMSM**, un repositorio dedicado al aprendizaje y la práctica de Python. Este espacio está diseñado para ser útil tanto para principiantes que están dando sus primeros pasos como para personas con conocimientos intermedios que desean fortalecer sus habilidades.  
+Bienvenido a **Programación con Kevin**, un repositorio dedicado al aprendizaje y la práctica de Python. Este espacio está diseñado para ser útil tanto para principiantes que están dando sus primeros pasos como para personas con conocimientos intermedios que desean fortalecer sus habilidades. El material es totalmente gratis, distribúyelo con tus familiares, amigos o enemigos.
 
 ## Contenido  
 En este repositorio encontrarás:  
