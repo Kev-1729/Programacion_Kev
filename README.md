@@ -15,11 +15,6 @@ La estructura está organizada de la siguiente manera:
 - **`ejercicios-resueltos/`**: Carpeta con los problemas resueltos del curso **CS50 de Harvard**.  
 - **`ejercicios-para-resolver/`**: Documento en formato `.ipynb` que incluye teoría y ejercicios prácticos para que puedas resolverlos por tu cuenta.  
 
-## Cómo Usar Este Repositorio  
-1. **Clona el repositorio en tu máquina local:**  
-   ```bash
-   git clone https://github.com/Kev-1729/Programacion_Kev.git
-
 ## Recursos Adicionales
 Si deseas profundizar más en Python, te recomendamos explorar el curso oficial de CS50:
 [CS50’s Introduction to Programming with Python](https://cs50.harvard.edu/python/2022/)
