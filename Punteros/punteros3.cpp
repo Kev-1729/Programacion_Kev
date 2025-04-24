@@ -26,4 +26,4 @@ int main() {
 
     return 0;
 }
-// El que me escriba primero al whatsapp se gana 1 punto de nota para el final. *Este comentario sera quitado cuando el primer alumno se comunique conmigo, confirmando que ya se uso esta promocion*
+// promocion vencida
