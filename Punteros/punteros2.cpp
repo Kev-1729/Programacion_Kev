@@ -7,7 +7,6 @@
 	*/
 
 #include<iostream>
-
 using namespace std;
 
 // Función que recibe una referencia a 'a' y modifica su valor directamente
