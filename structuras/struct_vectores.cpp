@@ -9,7 +9,7 @@ struct Persona{
 
 int main(){
     int n;
-    cout<<"¿Cuántas personas desea ingresar?: ";
+    cout<<"Â¿CuÃ¡ntas personas desea ingresar?: ";
     cin>>n;
     cin.ignore();
 
@@ -19,7 +19,7 @@ int main(){
 
     
     if (n>MAX){
-        cout<<"Límite excedido (máximo "<<MAX<<" personas).\n";
+        cout<<"LÃ­mite excedido (mÃ¡ximo "<<MAX<<" personas).\n";
         return 1;
     }
 
