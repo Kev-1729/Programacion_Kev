@@ -1,0 +1,33 @@
+#include <iostream>
+using namespace std;
+
+struct Fecha {
+    int dia;
+    int mes;
+    int anio;
+};
+
+struct Persona {
+    string nombre;
+    int edad;
+    Fecha fechaNacimiento;
+};
+
+int main() {
+    Persona p1;
+
+    p1.nombre = "Kevin";
+    p1.edad = 25;
+    p1.fechaNacimiento.dia = 10;
+    p1.fechaNacimiento.mes = 11;
+    p1.fechaNacimiento.anio = 2000;
+
+    cout << "Nombre: " << p1.nombre << endl;
+    cout << "Edad: " << p1.edad << endl;
+    cout << "Fecha de nacimiento: "
+         << p1.fechaNacimiento.dia << "/"
+         << p1.fechaNacimiento.mes << "/"
+         << p1.fechaNacimiento.anio << endl;
+
+    return 0;
+}
